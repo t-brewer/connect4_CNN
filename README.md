@@ -1,5 +1,4 @@
 # Artificial Neural Networks with Connect-4
-## Thomas Brewer
 
 ## Context
 
