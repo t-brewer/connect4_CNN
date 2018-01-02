@@ -1,4 +1,4 @@
-# Artificial Neural Networks with Connect-4
+# Artificial Neural Networks with Connect-Four
 
 ## Context
 
